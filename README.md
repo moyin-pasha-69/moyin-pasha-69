@@ -4,11 +4,7 @@
 💻 Web Developer | Backend Learner | Problem Solver
 </h3>
 
-<p align="center">
-  <a href="https://github.com/moyin-pasha-69">
-    <img src="https://komarev.com/ghpvc/?username=moyin-pasha-69&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+
 
 ---
 
@@ -100,7 +96,7 @@ A movie discovery web application using the TMDB API.
 
 **Tech:** HTML • Tailwind CSS • JavaScript • TMDB API
 
-🔗 [View Repository](https://github.com/moyin-pasha-69)
+🔗 [View Repository](https://github.com/moyin-pasha-69/movie-finder)
 
 ---
 
@@ -110,17 +106,10 @@ A task and productivity dashboard with local storage support.
 
 **Tech:** HTML • Tailwind CSS • JavaScript • LocalStorage
 
-🔗 [View Repository](https://github.com/moyin-pasha-69)
+🔗 [View Repository](https://github.com/moyin-pasha-69/student-planner)
 
 ---
 
-### 📚 Scripture Reader
-
-A web application designed for reading and exploring books such as the Quran, Bible and Bhagavad Gita.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [View Repository](https://github.com/moyin-pasha-69)
 
 ---
 
@@ -153,51 +142,12 @@ A web application designed for reading and exploring books such as the Quran, Bi
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=moyin-pasha-69&hide_border=true"
-    alt="Moyin's Contribution Graph"
-  />
-</p>
 
----
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=moyin-pasha-69&theme=flat&no-frame=true&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</p>
 
----
 
-# 📦 GitHub Repository Stats
-
-<p align="center">
-
-<img
- src="https://github-contributor-stats.vercel.app/api?username=moyin-pasha-69&limit=5&theme=default&combine_all_yearly_contributions=true"
- alt="GitHub Contribution Stats"
-/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/moyin-pasha-69/moyin-pasha-69/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
 
 # 💡 Problem Solving
 
