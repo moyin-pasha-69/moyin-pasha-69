@@ -131,16 +131,7 @@ A task and productivity dashboard with local storage support.
 
 ---
 
-# 🔥 Contribution Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=moyin-pasha-69&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 
 
